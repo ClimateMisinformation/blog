@@ -4,7 +4,7 @@
 
 backend:
   name: github
-  repo:  ClimateMisinformation/blog
+  repo: ClimateMisinformation/blog
 
   branch: master
 
