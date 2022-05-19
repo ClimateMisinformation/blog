@@ -32,7 +32,7 @@ menu:
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book"
+      url: "https://github.com/ClimateMisinformation/blog"
       weight: 10
 
 
