@@ -23,13 +23,17 @@ Here we  summarise the problem we  want to solve, the reasons for climate mis-in
 
 The product team made an in depth analysis of the need for product we could build.
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+ - Problem
+ - Must haves
+ - Unique value proposition
+ - Solution
+ - Customer segments
+ - Existing alternatives
+ - Key metrics
+ - High level concept
+ - Customer  acquisition channels
+ - Early adopters
+
 
 ## Personas and the product
 
