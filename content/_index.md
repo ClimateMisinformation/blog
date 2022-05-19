@@ -6,27 +6,22 @@ type: docs
 # Acerbo datus maxime
 
 {{< columns >}}
-## Astris ipse furtiva
+## The problem
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+Most people accept climate change is real, however they personally don't take any action to make a difference.
 
 <--->
 
-## Suis quot vota
+## MarketResearch
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+Here we  summarise the problem we  want to solve, the reasons for climate mis-information, the types of  climate misinformation,how is climate misinformation spread and how it can be countered.
+
 {{< /columns >}}
 
 
-## Tempora nisi nunc
+## Product canvas
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+The product team made an in depth analysis of the need for product we could build.
 
     var panel = ram_design;
     if (backup + system) {
@@ -36,6 +31,19 @@ sequens!
                 graphicsNvramCdma, lpi_footer_snmp, integer_model));
     }
 
-## Locis suis novi cum suoque decidit eadem
+## Personas and the product
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+Here  we describe expected users of a climate mis-information tool and their possible motivations  for using our tool.
+
+## Assumption validation
+
+Our assumptions are described in the issues log. Reviewing them is a useful task for new contributers. 
+
+## Keywords for scraping Twitter dataset
+
+## [Labelled data from scraping](LabelledDataFromArticleScrape.md)
+We used our [scraping tools](https://github.com/ClimateMisinformation/Scrapers)  to scrape the websites described [here](https://docs.google.com/spreadsheets/d/1S_pv0cFsYCdrJFp8M-Tc_Vbk221PvhtnCe-QaBr8rQw/edit?usp=sharing).
+The articles were labelled by our team using a [docanno](https://doccano.herokuapp.com/) instance running on the cloud.  The project and labels were exported [here](labelled_data/doccano). They  cam be imported into other doccano instances. 
+
+## Designs & Prototypes
+[Designs & Prototypes](https://www.notion.so/Designs-Prototypes-7d54209087ec417295e12d526f10ab46)
