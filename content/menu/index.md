@@ -2,9 +2,9 @@
 headless: true
 ---
 
-- [**Example Site**]({{< relref "/docs/example" >}})
+- [**Site map**]({{< relref "/docs/example" >}})
 - [Market Research]({{< relref "/docs/example/MarketResearch.md" >}})
-  - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
+  - [Market Research]({{< relref "/docs/example/table-of-contents/with-toc" >}})
   - [Without ToC]({{< relref "/docs/example/table-of-contents/without-toc" >}})
 - [Collapsed]({{< relref "/docs/example/collapsed" >}})
   - [3rd]({{< relref "/docs/example/collapsed/3rd-level" >}})
