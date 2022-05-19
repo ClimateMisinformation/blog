@@ -12,7 +12,7 @@ Most people accept climate change is real, however they personally don't take an
 
 <--->
 
-## MarketResearch
+## Market Research
 
 Here we  summarise the problem we  want to solve, the reasons for climate mis-information, the types of  climate misinformation,how is climate misinformation spread and how it can be countered.
 
