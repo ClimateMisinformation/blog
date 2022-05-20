@@ -1,3 +1,6 @@
+---
+bookHidden: true
+---
 
 # Caput vino delphine in tamen vias
 
