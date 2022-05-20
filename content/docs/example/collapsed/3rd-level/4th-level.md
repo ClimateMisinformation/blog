@@ -1,3 +1,7 @@
+---
+bookHidden: true
+---
+
 # 4th Level of Menu
 
 ## Caesorum illa tu sentit micat vestes papyriferi
