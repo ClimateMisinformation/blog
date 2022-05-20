@@ -1,7 +1,7 @@
 ---
 title: Product Canvas
 weight: 2
-bookHidden: true
+
 ---
 
 # Product Canvas
