@@ -1,5 +1,5 @@
 ---
-title: Product Canvas
+title: Personas
 weight: 3
 ---
 
