@@ -24,7 +24,7 @@ Approximately 14% of press releases opposing climate action or denying the scien
 
 ## What type of climate misinformation is there?
 
-!["What type of climate misinformation is there"](images/What_type_of_climate_misinformation_is_there.png )
+!["What type of climate misinformation is there"](/img/What_type_of_climate_misinformation_is_there.png )
 
 - It's not real
 - It's not our fault
@@ -34,7 +34,7 @@ Approximately 14% of press releases opposing climate action or denying the scien
 
 ## Who creates climate misinformation?
 
-!["Who creates climate misinformation"](images/Who_creates_climate_misinformation.png )
+!["Who creates climate misinformation"](/img/Who_creates_climate_misinformation.png )
 
 Major fossil fuel companies routinely make billion-dollar profits, extracting and distributing oil, gas, and coal.
 
@@ -44,7 +44,7 @@ One academic study of 192 sceptic books and reports found that 92% were directly
 
 ## How is climate misinformation spread?
 
-!["How is misinfo propogated spread"](images/How_is_misinfo_propogated.png )
+!["How is misinfo propogated spread"](/img/How_is_misinfo_propogated.png )
 
 Even today, industry trade groups and associations spread disinformation on climate change, while corporate lobbyists influence politicians and regulators—all with the financial backing and support of major fossil fuel companies. 
 

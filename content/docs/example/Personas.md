@@ -4,7 +4,7 @@ weight: 3
 ---
 
 
-!["Personas"](images/Climate_misinformation_persona.jpg )
+!["Personas"](/img/Climate_misinformation_persona.jpg )
 
 ## Product use-cases for the persona
 

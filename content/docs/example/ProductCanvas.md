@@ -7,4 +7,4 @@ weight: 2
 # Product Canvas
 
 
-!["Product canvas"](https://github.com/ClimateMisinformation/Documentation/blob/main/images/Product_canvas.jpg )
+!["Product canvas"](/img/Product_canvas.jpg )
