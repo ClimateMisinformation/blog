@@ -3,10 +3,10 @@ title: Personas
 weight: 3
 ---
 
+# Personas
+## Product use-cases for the persona
 
 !["Personas"](/img/Climate_misinformation_persona.jpg )
-
-## Product use-cases for the persona
 
 ### Notifications
 
