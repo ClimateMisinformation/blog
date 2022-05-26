@@ -3,32 +3,31 @@ title: "Meetup: 25th May 2022"
 date: 2022-05-26T09:53:04.017Z
 ---
 ## Agenda
-- Introductions\
-- Project – are we rating companies csr\
-- Climate data / figures or interpretations\
-- Brainstorm\
-- Web content (we skipped this)\
-- Data science\
+- Introductions
+- Project – are we rating companies csr
+- Climate data  figures or interpretations
+- Brainstorm
+- Web content (we skipped this)
+- Data science
 - Roadmap
 
 ## Items raised
-- How do we train the bot?\
-- How do we amplify people who are already flagging misinformation.\
-- Do we cherry pick those companies that are known for misinformationnow we have the twitter bot, we need to revalue what we are looking to achieve\
-dirty data science <https://twitter.com/search?q=%22climate%20change%20fraud%22&src=typed_query&f=top> or look for offsetting or commitment lies?\
-
-- Rather than proving emission mistruths, look for the patterns / characteristics of greenwashing .
+- How do we train the bot?
+- How do we amplify people who are already flagging misinformation.
+- Do we cherry pick those companies that are known for misinformation now we have the twitter bot, we need to revalue what we are looking to achieve
+dirty data science <https://twitter.com/search?q=%22climate%20change%20fraud%22&src=typed_query&f=top> or look for offsetting or commitment lies?
+- Rather than proving emission mistruths, should we look for the patterns/characteristics of greenwashing.
 
 ## For Next Time
 ### Scoping 
-- what can we do short and long term\
+- what can we do short and long term
 - What will have the most impact now. 
-- What can we do next ?\
-- Planning resources, dependencies\
+- What can we do next ?
+- Planning resources, dependencies
 
 ## Web content
 ### Links
-- <https://climatefeedback.org/>\
+- <https://climatefeedback.org/>
 - <https://corporatewatch.org/tag/climate-change/>
 - <https://twitter.com/search?q=%22climate%20change%20fraud%22&src=typed_query&f=top>
 - <https://www.bitc.org.uk/report/the-right-climate-for-business-leading-a-just-transition/>
