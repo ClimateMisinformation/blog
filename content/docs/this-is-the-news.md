@@ -19,45 +19,33 @@ dirty data science <https://twitter.com/search?q=%22climate%20change%20fraud%22
 
 - Rather than proving emission mistruths, look for the patterns / characteristics of greenwashing .
 
-## For next time
-### scoping 
+## For Next Time
+### Scoping 
 - what can we do short and long term\
 - What will have the most impact now. 
 - What can we do next ?\
 - Planning resources, dependencies\
 
 ## Web content
-### links
+### Links
 - <https://climatefeedback.org/>\
 - <https://corporatewatch.org/tag/climate-change/>
 - <https://twitter.com/search?q=%22climate%20change%20fraud%22&src=typed_query&f=top>
 - <https://www.bitc.org.uk/report/the-right-climate-for-business-leading-a-just-transition/>
 - <https://twitter.com/search?q=%22climate%20change%20conspiracy%22&src=typed_query&f=live> 
 
-![twitter.com](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fabs.twimg.com%2Ficons%2Fapple-touch-icon-192x192.png)twitter.com
 
-["climate change fraud" - Twitter Search](https://twitter.com/search?q=%22climate%20change%20fraud%22&src=typed_query&f=top)
+- ["Climate Change Fraud" - Twitter Search](https://twitter.com/search?q=%22climate%20change%20fraud%22&src=typed_query&f=top)
 
-On May 19 @Tutora2020 tweeted: "@athak14 @AOC The only tipping point is .." - read what others are saying and join the conversation.
+  On May 19 @Tutora2020 tweeted: "@athak14 @AOC The only tipping point is .." - read what others are saying and join the conversation.
 
-Business in the Community
+- ["Climate Change Conspiracy" - Twitter Search](https://twitter.com/search?q=%22climate%20change%20conspiracy%22&src=typed_query&f=live) 
+    
+  The latest Tweets on "climate change conspiracy". Read what people are saying and join the conversation.
 
-[The Right Climate For Business: leading a just transition](https://www.bitc.org.uk/report/the-right-climate-for-business-leading-a-just-transition/)
 
-The Right Climate For Business: leading a just transition shares research and recommendations to deliver a fair and inclusive transition to net zero.
+- ["Business in the Community - The Right Climate For Business: leading a just transition"](https://bit.ly/3lM3yGw)
 
-Estimated reading time
+    The Right Climate For Business: leading a just transition shares research and recommendations to deliver a fair and inclusive transition to net zero.
 
-4 minutes
 
-[https://www.bitc.org.uk/report/the-right-climate-for-business-leading-a-just-transition/](https://www.bitc.org.uk/report/the-right-climate-for-business-leading-a-just-transition/ "The Right Climate For Business: leading a just transition")
-
-[](https://www.bitc.org.uk/report/the-right-climate-for-business-leading-a-just-transition/)
-
-![twitter.com](https://slack-imgs.com/?c=1&o1=wi32.he32.si&url=https%3A%2F%2Fabs.twimg.com%2Ficons%2Fapple-touch-icon-192x192.png)twitter.com
-
-["climate change conspiracy" - Twitter Search](https://twitter.com/search?q=%22climate%20change%20conspiracy%22&src=typed_query&f=live)
-
-The latest Tweets on "climate change conspiracy". Read what people are saying and join the conversation.
-
-<!--EndFragment-->
