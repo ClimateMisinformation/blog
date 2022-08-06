@@ -14,14 +14,14 @@ Most people accept climate change is real, however they personally don't take an
 
 ## Market Research
 
-Here we  summarise the problem we  want to solve, the reasons for climate mis-information, the types of  climate misinformation,how is climate misinformation spread and how it can be countered.
+Here we  summarise the problem we  want to solve, the reasons for climate misinformation, the types of climate misinformation, how is climate misinformation spread and how it can be countered.
 
 {{< /columns >}}
 
 
 ## Product canvas
 
-The product team made an in depth analysis of the need for product we could build.
+The product team made an in depth analysis of the need for a product we could build.
 
  - Problem
  - Must haves

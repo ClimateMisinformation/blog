@@ -10,7 +10,7 @@ weight: 1
 
 60% of people believe that "many scientific experts still question if humans are contributing to climate change". Thirty per cent of people believe climate change is "largely down to natural causes", while 7% refuse to accept the climate is changing at all.
 
-It is hardly surprising that political world view is by far the greatest determinant of attitudes to climate change, especially in the US where three times more Republicans than Democrats believe that "too much fuss is made about global warming".
+It is hardly surprising that political world view is by far the greatest determinant of attitudes to climate change, especially in the US, where three times more Republicans than Democrats believe that "too much fuss is made about global warming".
 
 Instead of focusing on denialism, climate misinformation is getting local, focused on extreme weather events tied to a changing climate — such the Texas storm or recent wildfires that ravaged California and Australia.
 
@@ -50,7 +50,7 @@ Even today, industry trade groups and associations spread disinformation on clim
 
 For example, it was revealed that Koch Industries, a little-known, privately owned US oil company, paid nearly $50 million to climate denial groups and individuals between 1997 and 2008.
 
-The conservative news media, continues to provide a platform for the handful of scientists who reject the scientific consensus. Of the 18 experts that appeared in Channel 4's notorious sceptic documentary The Great Global Warming Swindle, 11 have been quoted in the past two years in the Daily and Sunday Telegraph, five of them more than five times.
+The conservative news media continues to provide a platform for the handful of scientists who reject the scientific consensus. Of the 18 experts that appeared in Channel 4's notorious sceptic documentary The Great Global Warming Swindle, 11 have been quoted in the past two years in the Daily and Sunday Telegraph, five of them more than five times.
 
 Media intelligence firm Zignal Labs analyzed millions of social media posts, news stories and other online content and found that overall, conversations about climate change in the past 12 months peaked during high-profile natural disasters, including the Texas storm and the California wildfires. Overall, online mentions of natural disasters and their relationship to climate change also increased by 27%, Zignal found.
 
@@ -78,24 +78,24 @@ The results show that liberal individuals were more likely to react with frustra
 
 ## Sources
 
-[https://www.ucsusa.org/climate/disinformation](https://www.ucsusa.org/climate/disinformation)
+<https://www.ucsusa.org/climate/disinformation>
 
-[https://www.campaigncc.org/climate_change/sceptics](https://www.campaigncc.org/climate_change/sceptics)
+<https://www.campaigncc.org/climate_change/sceptics>
 
-[https://www.campaigncc.org/climate_change/sceptics/hall_of_shame](https://www.campaigncc.org/climate_change/sceptics/hall_of_shame)
+<https://www.campaigncc.org/climate_change/sceptics/hall_of_shame>
 
-[https://www.theguardian.com/environment/cif-green/2009/mar/09/denial-climate-change-psychology](https://www.theguardian.com/environment/cif-green/2009/mar/09/denial-climate-change-psychology)
+<https://www.theguardian.com/environment/cif-green/2009/mar/09/denial-climate-change-psychology>
 
-[https://apnews.com/article/joe-biden-wildfires-climate-change-misinformation-climate-d5909c4ddfb13e82174dafcef4af94ff](https://www.notion.so/d5909c4ddfb13e82174dafcef4af94ff)
+<https://apnews.com/article/joe-biden-wildfires-climate-change-misinformation-climate-d5909c4ddfb13e82174dafcef4af94ff>
 
-[https://www.climatechangenews.com/2021/05/21/facebook-fuels-climate-misinformation-online-report-finds/](https://www.climatechangenews.com/2021/05/21/facebook-fuels-climate-misinformation-online-report-finds/)
+<https://www.climatechangenews.com/2021/05/21/facebook-fuels-climate-misinformation-online-report-finds/>
 
-[https://www.carbonbrief.org/guest-post-how-climate-change-misinformation-spreads-online](https://www.carbonbrief.org/guest-post-how-climate-change-misinformation-spreads-online)
+<https://www.carbonbrief.org/guest-post-how-climate-change-misinformation-spreads-online>
 
-Very useful: [https://www.climatechangecommunication.org/wp-content/uploads/2019/06/Cook_2019_climate_misinformation-1.pdf](https://www.climatechangecommunication.org/wp-content/uploads/2019/06/Cook_2019_climate_misinformation-1.pdf)
+Very useful: <https://www.climatechangecommunication.org/wp-content/uploads/2019/06/Cook_2019_climate_misinformation-1.pdf>
 
-[https://naaee.org/eepro/research/library/responding-misinformation-about-climate](https://naaee.org/eepro/research/library/responding-misinformation-about-climate)
+<https://naaee.org/eepro/research/library/responding-misinformation-about-climate>
 
-[https://www.communicatemagazine.com/news/2021/pr-professionals-to-tackle-climate-misinformation/](https://www.communicatemagazine.com/news/2021/pr-professionals-to-tackle-climate-misinformation/) 
+<https://www.communicatemagazine.com/news/2021/pr-professionals-to-tackle-climate-misinformation/>
 
-[https://www.brown.edu/news/2020-07-27/wetts](https://www.brown.edu/news/2020-07-27/wetts)A
+<https://www.brown.edu/news/2020-07-27/wetts>
