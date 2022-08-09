@@ -15,12 +15,12 @@ date: 2022-05-26T09:53:04.017Z
 - How do we train the bot?
 - How do we amplify people who are already flagging misinformation.
 - Do we cherry pick those companies that are known for misinformation now we have the twitter bot, we need to revalue what we are looking to achieve
-dirty data science <https://twitter.com/search?q=%22climate%20change%20fraud%22&src=typed_query&f=top> or look for offsetting or commitment lies?
+- [Dirty data science](https://twitter.com/search?q=%22climate%20change%20fraud%22) or look for offsetting or commitment lies?
 - Rather than proving emission mistruths, should we look for the patterns/characteristics of greenwashing.
 
 ## For Next Time
 ### Scoping 
-- what can we do short and long term
+- What can we do short and long term
 - What will have the most impact now. 
 - What can we do next ?
 - Planning resources, dependencies
@@ -34,11 +34,11 @@ dirty data science <https://twitter.com/search?q=%22climate%20change%20fraud%22
 - <https://twitter.com/search?q=%22climate%20change%20conspiracy%22&src=typed_query&f=live> 
 
 
-- ["Climate Change Fraud" - Twitter Search](https://twitter.com/search?q=%22climate%20change%20fraud%22&src=typed_query&f=top)
+- ["Climate Change Fraud" - Twitter Search](https://twitter.com/search?q=%22climate%20change%20fraud%22)
 
   On May 19 @Tutora2020 tweeted: "@athak14 @AOC The only tipping point is .." - read what others are saying and join the conversation.
 
-- ["Climate Change Conspiracy" - Twitter Search](https://twitter.com/search?q=%22climate%20change%20conspiracy%22&src=typed_query&f=live) 
+- ["Climate Change Conspiracy" - Twitter Search](https://twitter.com/search?q=%22climate%20change%20conspiracy%22) 
     
   The latest Tweets on "climate change conspiracy". Read what people are saying and join the conversation.
 
